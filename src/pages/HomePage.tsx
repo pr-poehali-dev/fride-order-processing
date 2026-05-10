@@ -2,7 +2,7 @@ import Icon from '@/components/ui/icon';
 
 const stats = [
   { label: 'Заказов сегодня', value: '23 812', change: '+12%', color: 'var(--neon-green)', icon: 'ShoppingBag' },
-  { label: 'В обработке', value: '13', change: '4 срочных', color: 'var(--neon-orange)', icon: 'Clock' },
+  { label: 'В обработке', value: '23 129', change: '4 срочных', color: 'var(--neon-orange)', icon: 'Clock' },
   { label: 'Выполнено', value: '1 204', change: '+8% этот месяц', color: 'var(--neon-blue)', icon: 'CheckCircle' },
   { label: 'Выручка сегодня', value: '₽84 200', change: '+23% к вчера', color: 'var(--neon-purple)', icon: 'TrendingUp' },
 ];
