@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Icon from '@/components/ui/icon';
 
 const allOrders = [
-  { id: '#1910213', client: 'Алексей Морозов', phone: '+7 999 123-45-67', amount: '₽3 400', status: 'В работе', date: '11.05.2026', items: 2 },
+  { id: '#1910213', client: 'Алексей Морозов', phone: '+7 999 123-45-67', amount: '₽2 600', status: 'В работе', date: '11.05.2026', items: 2 },
   { id: '#1910212', client: 'Маша Иванова', phone: '+7 912 234-56-78', amount: '₽7 800', status: 'В работе', date: '11.05.2026', items: 5 },
   { id: '#1910211', client: 'Дмитрий Соколов', phone: '+7 925 345-67-89', amount: '₽1 200', status: 'В работе', date: '11.05.2026', items: 1 },
   { id: '#1910210', client: 'ООО "Техносила"', phone: '+7 495 456-78-90', amount: '₽22 500', status: 'В работе', date: '11.05.2026', items: 12 },
